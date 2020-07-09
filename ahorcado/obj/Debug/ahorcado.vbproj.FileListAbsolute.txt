@@ -1,0 +1,15 @@
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\bin\Debug\ahorcado.exe.config
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\bin\Debug\ahorcado.exe.manifest
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\bin\Debug\ahorcado.application
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\bin\Debug\ahorcado.exe
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\bin\Debug\ahorcado.pdb
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\bin\Debug\ahorcado.xml
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\obj\Debug\ahorcado.vbprojAssemblyReference.cache
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\obj\Debug\ahorcado.Form1.resources
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\obj\Debug\ahorcado.Resources.resources
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\obj\Debug\ahorcado.vbproj.GenerateResource.cache
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\obj\Debug\ahorcado.exe.manifest
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\obj\Debug\ahorcado.application
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\obj\Debug\ahorcado.exe
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\obj\Debug\ahorcado.xml
+C:\Users\R2D2\source\repos\ahorcado\ahorcado\obj\Debug\ahorcado.pdb
